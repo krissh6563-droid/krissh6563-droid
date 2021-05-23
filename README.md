@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @krissh6563-droid
-- 👀 I’m interested in machine learning and python programming
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on python projects
+- 👋 Hi, I’m Krishna
+- 👀 I’m interested in programming and learning new technology
+- 🌱 I’m currently pursuing B.Tech from AKTU, Lucknow
+- 💞️ I’m looking to collaborate on python projects on GitHub and searching new opportunity in the industries
 - 📫 How to reach me krishnamitws2000@gmail.com
 
 <!---
