@@ -61,3 +61,7 @@
 </div>
 
 ###
+
+<p align="left">- Software Engineer in Test with two years of experience in test automation, quality assurance, and software testing methodologies.<br>- Proficient in designing and implementing robust test automation frameworks using industry-standard tools and technologies.<br>- Skilled in writing efficient and maintainable automated test scripts to ensure the quality and reliability of software products.<br>- Experienced in performing various types of testing, including functional testing, regression testing, and integration testing.<br>- Strong understanding of Agile development methodologies and CI/CD pipelines, with a focus on continuous testing and delivery.<br>- Passionate about delivering high-quality software solutions through collaboration, innovation, and a commitment to excellence.</p>
+
+###
