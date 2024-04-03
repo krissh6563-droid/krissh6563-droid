@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Shri Krishan and I'm a Automation Engineer ....</p>
+<p align="left">My name is Shri Krishan and I'm a Python Developer ....</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Writing automation script since 8 Nov 2021<br>📚 I'm currently learning DevOps<br>🎯 Goal: To be a great programmer<br>🎲 Fun fact: Overthinker</p>
+<p align="left">✨ Writing Python Code since 8 Nov 2021<br>📚 I'm currently learning DevOps<br>🎯 Goal: To be a great programmer<br>🎲 Fun fact: Overthinker</p>
 
 ###
 
